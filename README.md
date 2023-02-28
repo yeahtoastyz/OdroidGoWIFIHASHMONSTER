@@ -1,4 +1,4 @@
-# OdroidGoWIFIHASHMONSTER
+# Odroid Go WIFI-HASH-MONSTER
 Instructions on how to get the ESP32 Wifi Hashmonster working on the Odroid Go
 
 Required Software: Arduino IDE 
