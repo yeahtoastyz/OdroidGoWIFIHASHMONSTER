@@ -3,6 +3,7 @@ Instructions on how to get the ESP32 Wifi Hashmonster working on the Odroid Go
 
 Required Software: Arduino IDE 
 Required Hardware: Odroid GO and up to 32GB micro SD card to store PCAP files.
+Download the .zip file and unzip. This contains the original ESP32-WiFi-Hash-Monster with modifications for the Odroid Go.
 
 Required libraries: 
 https://github.com/tobozo/ESP32-Chimera-Core
